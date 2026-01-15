@@ -5,21 +5,21 @@
 
 #topBar {
   display: flex;
-  background-color: blue;
+  /*background-color: blue;*/
 }
 
 #tbd{
   padding-left: 2%;
   padding-right: 48%;
-  background-color: rgba(255,0,0,0.3); /* semi-transparent red */
-  border: 2px dashed green;           /* outline the element */
+  /*background-color: rgba(255,0,0,0.3); /* semi-transparent red */
+  /*border: 2px dashed green;            /* outline the element */
 }
 
 
 .menu {
   padding: 2%;
-  background-color: rgba(255,0,0,0.3); /* semi-transparent red */
-  border: 2px dashed green;           /* outline the element */
+  /*background-color: rgba(255,0,0,0.3); /* semi-transparent red */
+  /*border: 2px dashed green;           /* outline the element */
 }
 
 #att, h2 {
@@ -27,9 +27,16 @@
   justify-content: center;
   font-size: 100px;
   background-color: rgba(255,0,0,0.3); /* semi-transparent red */
-  border: 2px dashed green;           /* outline the element */
+  border: 2px dashed green;        /* outline the element */
 }
 
 #blah {
   font-size: 100px;
+}
+
+#pic {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(255,0,0,0.3); /* semi-transparent red */
+  border: 2px dashed green;   
 }

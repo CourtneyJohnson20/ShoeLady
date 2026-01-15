@@ -16,7 +16,11 @@ function App() {
       <section id='att'>
         <h2 id='blah'>ATTENTION</h2>&nbsp;
         <h2>BOX</h2>
+
       </section>
+      <div id='pic'>
+        <img src="https://placehold.co/400x300?text=Image+1" alt="Placeholder"></img>
+      </div>
 
     </section>
   )
